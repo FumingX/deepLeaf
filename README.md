@@ -49,8 +49,3 @@
 ## Autoencoder Feature Extraction
 ## Visualization
 ## Discussion
-
-<p align="center">
-<img src="http://i.imgur.com/cQ7tXaB.png">
-Fig. test
-</p>
